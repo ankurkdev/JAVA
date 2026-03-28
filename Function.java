@@ -91,7 +91,7 @@ class Function {
                 break;
 
             case 6:
-                exit(0);
+                System.exit(0);
                 break;
 
             default :
